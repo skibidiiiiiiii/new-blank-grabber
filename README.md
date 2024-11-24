@@ -1,6 +1,7 @@
 <h1 align="center">
    🚀 **New Blank Grabber** 🚀
-           **BEST UPDATE**
+           
+         **BEST UPDATE**
 </h1>
 <p align="center">
    <kbd>
